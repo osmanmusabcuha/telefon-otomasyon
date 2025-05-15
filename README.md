@@ -39,12 +39,12 @@ npm install
 
 3. `.env` dosyasını oluşturun:
 ```env
-PORT=3000
+PORT=5000
 NODE_ENV=development
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=
-DB_NAME=telefon_otomasyonu
+DB_NAME=telefon_otomasyonu2
 JWT_SECRET=your-super-secret-jwt-key
 JWT_EXPIRES_IN=24h
 ```
